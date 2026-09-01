@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/github/release/FinnLocked/SilentWatcher.png">
 <img src="https://img.shields.io/github/last-commit/FinnLocked/SilentWatcher">
-<img src="https://img.shields.io/github/license/FinnLocked/SilentWatcher.png">
+<!--<img src="https://img.shields.io/github/license/FinnLocked/SilentWatcher.png">-->
 <a href="https://ko-fi.com/finnlocked/tip" target="_blank" title="Buy me a Coffee"><img src="https://img.shields.io/badge/Buy me a Coffee-FF5E5B?logo=ko-fi&logoColor=white"></a>
 <a href="https://finnlocked.com/discord" target="_blank" title="Join our Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/1535286481869078540/widget.png"></a>
 
@@ -85,7 +85,7 @@ For full installation instructions, see the [SilentWatcher documentation](https:
 
 
 [![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white)](https://finnlocked.com/discord)
-[![Ko-Fi](https://img.shields.io/badge/Buy%20me%20a%20Coffee-FF5E5B?logo=ko-fi&logoColor=white)](ko-fi.com/finnlocked/tip)
+[![Ko-Fi](https://img.shields.io/badge/Buy%20me%20a%20Coffee-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/finnlocked/tip)
 
 
 
