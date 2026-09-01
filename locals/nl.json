@@ -1,0 +1,51 @@
+{
+    "DefaultLogs": {
+        "PlayerConnecting": "%s maakt verbinding met de server.",
+        "PlayerJoining": "%s is de server binnengekomen.",
+        "PlayerDropped": "%s heeft de verbinding met de server verbroken.\nReden: %s",
+        "Chat": "%s: %s",
+        "Explosions": "%s heeft een explosie veroorzaakt.\nType: %s",
+        "Death": "%s %s\nDoodsoorzaak: %s",
+        "Death2": "%s %s %s\nDoodsoorzaak: %s",
+        "Shooting": "%s heeft een %s %s keer afgevuurd",
+        "ResourceStart": "Resource %s is gestart.",
+        "ResourceStop": "Resource %s is gestopt.",
+        "ResourceRefresh": "Resource lijst ververst (/refresh)."
+    },
+
+
+    "Other": {
+        "NameChange": "Speler **%s** heette eerder **%s**",
+        "NameChangeChat": "%s heette eerder %s",
+        "ForceSteamLog": "Speler **%s** gekickt omdat Steam niet actief was.",
+        "ForceSteam": "Start Steam op en verbind opnieuw met de server.",
+        "NoSteamLog": "Speler **%s** heeft Steam niet actief en we kunnen hun naam niet loggen.",
+        "NoSteam": "Speler %s verbindt zonder Steam ID."
+    },
+
+
+    "DeathReasons": {
+        "Suicide": "pleegde zelfmoord",
+        "Died": "overleden",
+        "Murdered": "vermoord",
+        "Torched": "in brand gestoken",
+        "Knifed": "gestoken met mes",
+        "Pistoled": "neergeschoten met pistool",
+        "Riddled": "doorzeefd",
+        "Rifled": "neergeschoten met geweer",
+        "MachineGunned": "neergemaaid met machinegeweer",
+        "Pulverized": "verpulverd",
+        "Sniped": "neergeschoten door sniper",
+        "Obliterated": "geëlimineerd",
+        "Shredded": "verscheurd",
+        "Bombed": "opgeblazen",
+        "MowedOver": "overreden",
+        "Flattened": "platgereden",
+        "Killed": "gedood"
+    },
+
+
+    "WeaponFired": {
+        "Undefined": "Ongedefinieerd"
+    }
+}

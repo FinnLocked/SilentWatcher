@@ -1,0 +1,48 @@
+{
+    "DefaultLogs": {
+        "PlayerConnecting": "%s is connecting to the server.",
+        "PlayerJoining": "%s has joined the server.",
+        "PlayerDropped": "%s has disconnected from the server.\nReason: %s",
+        "Chat": "%s: %s",
+        "Explosions": "%s created a explosion.\nType: %s",
+        "Death": "%s %s\nDeath Cause: %s",
+        "Death2": "%s %s %s\nDeath Cause: %s",
+        "Shooting": "%s fired a %s %s times",
+        "ResourceStart": "Resource %s has been started.",
+        "ResourceStop": "Resource %s has been stopped.",
+        "ResourceRefresh": "Resource list refreshed (/refresh)."
+    },
+
+    "Other": {
+        "NameChange": "Player **%s** used to be named **%s**",
+        "NameChangeChat": "%s used to be named %s",
+        "ForceSteamLog": "Disonnected player **%s** for not having steam active.",
+        "ForceSteam": "Please start steam and reconnect to the server.",
+        "NoSteamLog": "Player **%s** does not have steam active and we can't log their name.",
+        "NoSteam": "Player %s is connecting wihout a steam id."
+    },
+
+    "DeathReasons": {
+        "Suicide": "committed suicide",
+        "Died": "died",
+        "Murdered": "murdered",
+        "Torched": "torched",
+        "Knifed": "knifed",
+        "Pistoled": "pistoled",
+        "Riddled": "riddled",
+        "Rifled": "rifled",
+        "MachineGunned": "machine gunned",
+        "Pulverized": "pulverized",
+        "Sniped": "sniped",
+        "Obliterated": "obliterated",
+        "Shredded": "shredded",
+        "Bombed": "bombed",
+        "MowedOver": "mowed over",
+        "Flattened": "flattened",
+        "Killed": "killed"
+    },
+
+    "WeaponFired": {
+        "Undefined": "Undefined"
+    }
+}
